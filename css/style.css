@@ -128,9 +128,9 @@ hr {
 }
 .btn-default {
 	text-transform: uppercase;
-	color: #555;
-	background-color: transparent;
-	border-color: #777;
+	color: #f5f5f5;
+	background-color: #333;
+	border-color: #333;
 	padding: 14px 20px;
 	margin: 0;
 	font-size: 16px;
@@ -148,7 +148,7 @@ hr {
 	width: 100%;
 	padding: 0;
 	text-align: center;
-	color: #333;
+	color: #ff0000;
 	background: url(../img/intro-bg.jpg) no-repeat center top;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
@@ -165,7 +165,7 @@ hr {
 	letter-spacing: 2px;
 	text-transform: uppercase;
 	margin-bottom: 20px;
-	color: #333;
+	color: #0027ff;
 }
 .intro p {
 	font-size: 20px;
