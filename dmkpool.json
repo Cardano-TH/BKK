@@ -1,1 +1,8 @@
-
+{
+  "name": "DMK",
+  "ticker": "DMK",
+  "description": "Donmueang international airport Thailand",
+  "homepage": "https://cardano-th.github.io/BKKA",
+  "nonce": "1606892987",
+  "extended": "https://cardano-th.github.io/BKKA/dmkpool_extended.json"
+}
