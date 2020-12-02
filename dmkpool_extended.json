@@ -35,11 +35,6 @@
                 "key": "81e796d79bdd84614a57980325dc4385"
             },
             "1": {
-                "name": "relay 2 usa",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "2": {
                 "name": "DMK-CORE",
                 "type": "bp",
                 "key": "72212fa4b552a1a60433e15b5a8f78c6"
