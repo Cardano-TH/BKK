@@ -1,1 +1,8 @@
-
+{
+  "name": "Suvarnabhumi airport Thailand",
+  "ticker": "BKK",
+  "description": "ADA Angel Cardano-TH BKK & DMK Pool",
+  "homepage": "https://cardano-th.github.io/BKKA",
+  "nonce": "1606901826",
+  "extended": "https://cardano-th.github.io/BKKA/bkkpool_extended.json"
+}
