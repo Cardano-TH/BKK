@@ -27,9 +27,9 @@
     "adapools_ext": {
         "prometheus": {
             "0": {
-                "name": "relay 1 eu",
+                "name": "DMK-RELAY",
                 "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
+                "key": "81e796d79bdd84614a57980325dc4385"
             },
             "1": {
                 "name": "relay 2 usa",
