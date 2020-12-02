@@ -1,8 +1,8 @@
 {
-  "name": "DMK",
+  "name": "Donmueang international airport Thailand",
   "ticker": "DMK",
-  "description": "Donmueang international airport Thailand",
+  "description": "ADA Angel Cardano-TH BKK & DMK Pools",
   "homepage": "https://cardano-th.github.io/BKKA",
-  "nonce": "1606892987",
+  "nonce": "1606896028",
   "extended": "https://cardano-th.github.io/BKKA/dmkpool_extended.json"
 }
