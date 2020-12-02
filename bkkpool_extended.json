@@ -35,11 +35,6 @@
                 "key": "da39c4f045b10e128e686cca1a514f68"
             },
             "1": {
-                "name": "relay 2 usa",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "2": {
                 "name": "BKK-CORE",
                 "type": "bp",
                 "key": "d4b65ca8ffcaf75bdf375b2ad02d11bf"
