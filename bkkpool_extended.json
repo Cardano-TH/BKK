@@ -21,20 +21,6 @@
             },
             "telegram-admin-handle": {
         "0": "CardanoTH"
-    },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "BKK-RELAY",
-                "type": "relay",
-                "key": "da39c4f045b10e128e686cca1a514f68"
-            },
-            "1": {
-                "name": "BKK-CORE",
-                "type": "bp",
-                "key": "d4b65ca8ffcaf75bdf375b2ad02d11bf"
-                }
-            }
         }
     }
 }
