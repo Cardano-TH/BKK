@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://github.com/Cardano-TH/BKKA/blob/gh-pages/img/logo64_64.png",
-        "url_png_logo": "https://github.com/Cardano-TH/BKKA/blob/gh-pages/img/logo.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/Cardano-TH/BKKA/gh-pages/img/logo64_64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/Cardano-TH/BKKA/gh-pages/img/logo.png",
         "location": "Bangkok, Thailand",
         "social": {
             "twitter_handle": "Cardano_TH",
