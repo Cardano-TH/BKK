@@ -21,20 +21,6 @@
             },
             "telegram-admin-handle": {
         "0": "CardanoTH"
-    },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "DMK-RELAY",
-                "type": "relay",
-                "key": "81e796d79bdd84614a57980325dc4385"
-            },
-            "1": {
-                "name": "DMK-CORE",
-                "type": "bp",
-                "key": "72212fa4b552a1a60433e15b5a8f78c6"
-                }
-            }
         }
     }
 }
