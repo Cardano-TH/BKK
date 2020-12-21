@@ -9,7 +9,7 @@
         },
         "about": {
             "me": "Cardano-TH is an efficient and secure Stake Pool allowing you to easily participate in the functioning of the Cardano blockchain. Since Cardano is a Proof Of Stake blockchain, anyone who owns ADAs can participate in securing the blockchain. As a reward, he will receive remuneration in ADAs. But to participate, you must leave a computer on 24/7 and it is neither practical nor cheap ... This is where the Stake Pools come in: you safely delegate your right to participate in the functionning of the blockchain. (You do not send your ADAs but a certificate). In exchange for this service, the Stake Pool withholds part of your winnings. With Cardano-TH, you keep more than 99.99% of your earnings.",
-            "server": "VM google cloud USA server & Raspberry Pi passive node at my Home in Bangkok Thailand."
+            "server": "VM google cloud USA server & Raspberry Pi passive node at my Home in Bangkok Thailand"
     },
     "my-pool-ids": {
         "0": "2ee658bc6437e77e492d2216191e28dd076d88c7f0c0c4949092fe34",
@@ -17,7 +17,11 @@
     },
     "when-satured-then-recommend": {
         "0": "96aa57f4af0652c800cde0d25288bf6d1e35aefd11770d60e6bf8f0a",
-        "1": "pool1j6490a90qefvsqxdurf99z9ld50rtthaz9ms6c8xh78s52veuq2"
+        "1": "pool1j6490a90qefvsqxdurf99z9ld50rtthaz9ms6c8xh78s52veuq2",
+        "2": "ebb32905bc6ef3b584b1e6f81de7e14201362aa04d10429123feb67f",
+        "3": "pool1awejjpdudmemtp93umupmelpggqnv24qf5gy9yfrl6m87astv7w",
+        "4": "7fec643470e07954326fb01fe6b25828d0de9bf8999e4ad2d8923a5c",
+        "5": "pool10lkxgdrsupu4gvn0kq07dvjc9rgdaxlcnx0y45kcjga9c0c766u"
             },
             "telegram-admin-handle": {
         "0": "jjadaangel",
