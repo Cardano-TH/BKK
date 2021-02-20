@@ -9,7 +9,7 @@
             "facebook_handle": "CardanoADAThailand"
         },
         "about": {
-            "me": "Cardano-TH is an efficient and secure Stake Pool allowing you to easily participate in the functioning of the Cardano blockchain. Since Cardano is a Proof Of Stake blockchain, anyone who owns ADAs can participate in securing the blockchain. As a reward, he will receive remuneration in ADAs. But to participate, you must leave a computer on 24/7 and it is neither practical nor cheap ... This is where the Stake Pools come in: you safely delegate your right to participate in the functionning of the blockchain. (You do not send your ADAs but a certificate). In exchange for this service, the Stake Pool withholds part of your winnings. With Cardano-TH, you keep more than 99.99% of your earnings.",
+            "me": "Cardano-TH is an efficient and secure Stake Pool allowing you to easily participate in the functioning of the Cardano blockchain. Our target is to build a community in Thailand, to give knowledge about Cardano blockchain to Thai people, and to become one of decentralized parts. Once we get % margin fee, which will be voted by community, and we will donate all of %  margin fee to charities, https://www.thaichildrights.org/ and http://www.warawannursinghome.com/",
             "server": "VM google cloud USA server & Raspberry Pi passive node at my Home in Bangkok Thailand"
     },
     "my-pool-ids": {
