@@ -1,8 +1,8 @@
 {
-  "name": "Suvarnabhumi airport Thailand",
-  "ticker": "BKK",
-  "description": "Decentralization or Centralization choose your way",
-  "homepage": "https://cardano-th.github.io/BKKA",
+  "name": "Cardano Education Thailand",
+  "ticker": "CETH",
+  "description": "Join us in shaping the future of decentralisation.",
+  "homepage": "https://www.cardano-education.com/",
   "nonce": "1606901826",
   "extended": "https://cardano-th.github.io/BKKA/bkkpool_extended.json"
 }
